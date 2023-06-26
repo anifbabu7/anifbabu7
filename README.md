@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anifbabu7
-- 👀 I’m interested in both frontend and backend development
+- 👀 I’m currently intrested 
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
